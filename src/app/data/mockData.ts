@@ -6,7 +6,7 @@ export const mockData = [
     "description": "ola"
   },
   {
-    "id": 1,
+    "id": 2,
     "photo": "aa",
     "title": "title",
     "description": "ola"
