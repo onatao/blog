@@ -1,0 +1,40 @@
+.container__member {
+  border: solid white 2px;
+
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 800px;
+  height: 300px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.member__picture img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-top: 22px;
+  margin-left: 30px;
+}
+
+.member__left {
+  flex-direction: column;
+}
+
+.member__name h1 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.member__description p {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+
+
